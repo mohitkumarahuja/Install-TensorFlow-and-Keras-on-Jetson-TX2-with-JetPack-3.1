@@ -27,11 +27,15 @@ sudo pip3 install jupyter
 
 sudo apt install python3-numpy python3-scipy
 
-7. To turn ON all CPU’s:
+7. Install Keras:
+
+sudo pip3 install keras
+
+8. To turn ON all CPU’s:
 
 sudo nvpmodel -m 0
 
-8. To speed up:
+9. To speed up:
 
 sudo ./jetson_clocks.sh
 
