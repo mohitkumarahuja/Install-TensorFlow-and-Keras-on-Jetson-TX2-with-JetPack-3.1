@@ -56,7 +56,7 @@ You will require 1 PC with Ubuntu 14.04 for flashing jetpack to your Jetson TX2.
 
 ### 5. To turn ON all CPU’s:
 
-sudo nvpmodel -m 0
+* sudo nvpmodel -m 0
 
 ### 6. To speed up:
 
