@@ -1,7 +1,7 @@
 ﻿# Install-TensorFlow-and-Keras-on-Jetson-TX2-with-JetPack-3.1
 
 
-### First: 
+## First: 
 
 Install Jetpack 3.1 from https://developer.nvidia.com/embedded/dlc/jetpack-l4t-3_1 and if you don't have an account on Nvidia, make an account and download it.
 
@@ -9,7 +9,7 @@ Install Jetpack 3.1 from https://developer.nvidia.com/embedded/dlc/jetpack-l4t-3
 You will require 1 PC with Ubuntu 14.04 for flashing jetpack to your Jetson TX2.
 
 
-# Second: Install Tensor Flow from wheel file:
+## Second: Install Tensor Flow from wheel file:
 
 ### For Python 2.7 Users: 
 
@@ -30,11 +30,11 @@ You will require 1 PC with Ubuntu 14.04 for flashing jetpack to your Jetson TX2.
 * sudo pip3 install tensorflow-1.3.0-cp36-cp36m-linux_aarch64.whl
 
 
-# Third: Install Keras:
+## Third: Install Keras:
 
 * sudo pip3 install keras
 
-# Forth: Install all other required packages used for coding
+## Forth: Install all other required packages used for coding
 
 ### 1. Install h5py package:
 
